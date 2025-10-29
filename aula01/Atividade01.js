@@ -11,4 +11,4 @@ abono = leia.questionFloat("Digite o valor do abono: R$")
 novoSalario = salario + abono
 
 //Saida de dados
-console.log("O novo salário e de: R$" + novoSalario.toFixed(2))
+console.log("O novo salário e de: R$" + novoSalario.toFixed(2));
