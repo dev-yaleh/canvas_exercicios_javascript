@@ -12,7 +12,6 @@ import readlinesync = require("readline-sync")
 // Entrada de dados
 const cores: Array<string> = new Array<string>()
 
-
 console.log("Digite 5 cores:")
 
 for (let i = 0; i < 5; i++) {
